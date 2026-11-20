@@ -1,0 +1,5 @@
+# Local run logs may contain session metadata or raw Agent output.
+/runs/
+__pycache__/
+*.py[cod]
+.venv/
